@@ -1,0 +1,10 @@
+def menu(listeOptions:list):
+
+
+
+
+
+
+
+
+
